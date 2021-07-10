@@ -13,7 +13,7 @@ Test by running SELECT statements after running the queries on your database
 
 ### Subset of our data after the ETL pipeline:
 
-![Blankdiagram](file:///Users/saraali/Desktop/Data%20Eng/Data%20Modeling%20with%20Cassandra/home/images/image_event_datafile_new.jpg)
+file:///Users/saraali/Desktop/Data%20Eng/Data%20Modeling%20with%20Cassandra/home/images/image_event_datafile_new.jpg
 
 
 
