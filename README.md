@@ -17,14 +17,14 @@ Test by running SELECT statements after running the queries on your database
 ![Blankdiagram](image_event_datafile_new.jpg)
 
 ## Library:
-import pandas as pd
-import cassandra
-import re #Regular expression 
-import os # operating system
-import glob
-import numpy as np
-import json
-import csv
+- import pandas as pd
+- import cassandra
+- import re #Regular expression 
+- import os # operating system
+- import glob
+- import numpy as np
+- import json
+- import csv
 
 
 
