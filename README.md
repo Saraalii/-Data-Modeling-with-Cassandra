@@ -12,7 +12,9 @@ Make necessary edits to Part II of the notebook template to include Apache Cassa
 Test by running SELECT statements after running the queries on your database
 
 ### Subset of our data after the ETL pipeline:
-![Schema_design](image_event_datafile_new.jpg)
+
+![Blankdiagram](file:///Users/saraali/Desktop/Data%20Eng/Data%20Modeling%20with%20Cassandra/home/images/image_event_datafile_new.jpg)
+
 
 
 
